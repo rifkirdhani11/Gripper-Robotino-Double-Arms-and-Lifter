@@ -12,4 +12,4 @@ The device use an Arduino Nano v3.0 microcontroller to control 2 servo in each a
 
 Video demonstration at : https://youtu.be/vAyEHZbrQf4
 
-CAD can be downloaded at : https://grabcad.com/library/forklift-for-robotino-1
+CAD can be downloaded at : https://grabcad.com/library/double-arms-gripper-robotino-festo-v2-1
