@@ -11,4 +11,5 @@ Double Arm Gripper is additional features for Robotino FESTO v2. This project is
 The device use an Arduino Nano v3.0 microcontroller to control 2 servo in each arm (there are 2 arms) and control a stepper motor to raise or lower the object that has been taken. The input is a logic of Robotino digital output with a range of 0 - 24V which is controlled by the Robotino View software (Robotino programming software). Uses 4 emax servo as a grip and a Nema17 stepper.
 
 Video demonstration at : https://youtu.be/vAyEHZbrQf4
+
 CAD can be downloaded at : https://grabcad.com/library/forklift-for-robotino-1
